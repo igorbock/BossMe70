@@ -4,6 +4,8 @@
 [Route("api/[controller]")]
 public class PreampController : AbstractController<Preamp>
 {
+    public PreampController(BossDbContext bossDbContext) : base(bossDbContext) { }
+
     [HttpPost]
     public override IActionResult Save(Preamp preamp)
     {
@@ -12,14 +14,7 @@ public class PreampController : AbstractController<Preamp>
             if (preamp is null)
                 throw new ArgumentNullException(nameof(preamp));
 
-            using var DbContext = new BossDbContext();
-
-            if (preamp.Id is 0)
-                DbContext.Preamps!.Add(preamp);
-            else
-                DbContext.Preamps!.Update(preamp);
-
-            var qtd = DbContext.SaveChanges();
+            var qtd = InsertOrUpdate(preamp);
 
             return Ok(qtd);
         }

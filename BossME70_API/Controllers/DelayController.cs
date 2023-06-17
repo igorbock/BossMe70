@@ -4,6 +4,8 @@
 [Route("api/[controller]")]
 public class DelayController : AbstractController<Delay>
 {
+    public DelayController(BossDbContext bossDbContext) : base(bossDbContext){}
+
     [HttpPost]
     public override IActionResult Save(Delay delay)
     {

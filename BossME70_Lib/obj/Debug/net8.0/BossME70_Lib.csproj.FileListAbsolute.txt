@@ -1,12 +1,25 @@
-D:\BossME70\BossME70\BossME70_Lib\bin\Debug\net8.0\BossME70_Lib.deps.json
-D:\BossME70\BossME70\BossME70_Lib\bin\Debug\net8.0\BossME70_Lib.dll
-D:\BossME70\BossME70\BossME70_Lib\bin\Debug\net8.0\BossME70_Lib.pdb
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\BossME70_Lib.csproj.AssemblyReference.cache
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\BossME70_Lib.GeneratedMSBuildEditorConfig.editorconfig
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\BossME70_Lib.AssemblyInfoInputs.cache
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\BossME70_Lib.AssemblyInfo.cs
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\BossME70_Lib.csproj.CoreCompileInputs.cache
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\BossME70_Lib.dll
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\refint\BossME70_Lib.dll
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\BossME70_Lib.pdb
-D:\BossME70\BossME70\BossME70_Lib\obj\Debug\net8.0\ref\BossME70_Lib.dll
+D:/BossME70/BossME70/BossME70_Lib/bin/Debug/net8.0/BossME70_Lib.deps.json
+D:/BossME70/BossME70/BossME70_Lib/bin/Debug/net8.0/BossME70_Lib.dll
+D:/BossME70/BossME70/BossME70_Lib/bin/Debug/net8.0/BossME70_Lib.pdb
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.csproj.AssemblyReference.cache
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.AssemblyInfoInputs.cache
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.AssemblyInfo.cs
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.csproj.CoreCompileInputs.cache
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.dll
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/refint/BossME70_Lib.dll
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.pdb
+D:/BossME70/BossME70/BossME70_Lib/obj/Debug/net8.0/ref/BossME70_Lib.dll
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/bin/Debug/net8.0/BossME70_Lib.deps.json
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/bin/Debug/net8.0/BossME70_Lib.dll
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/bin/Debug/net8.0/BossME70_Lib.pdb
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.csproj.AssemblyReference.cache
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.AssemblyInfo.cs
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.sourcelink.json
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.dll
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/refint/BossME70_Lib.dll
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/BossME70_Lib.pdb
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/obj/Debug/net8.0/ref/BossME70_Lib.dll

@@ -1,57 +1,68 @@
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\appsettings.Development.json
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\appsettings.json
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\BossME70_API.exe
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\BossME70_API.deps.json
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\BossME70_API.runtimeconfig.json
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\BossME70_API.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\BossME70_API.pdb
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Humanizer.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Mono.TextTemplating.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Npgsql.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\System.CodeDom.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\System.Text.Json.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\BossME70_Lib.dll
-D:\BossME70\BossME70\BossME70_API\bin\Debug\net8.0\BossME70_Lib.pdb
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.csproj.AssemblyReference.cache
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.GeneratedMSBuildEditorConfig.editorconfig
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.AssemblyInfoInputs.cache
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.AssemblyInfo.cs
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.csproj.CoreCompileInputs.cache
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.MvcApplicationPartsAssemblyInfo.cs
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.MvcApplicationPartsAssemblyInfo.cache
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\staticwebassets\msbuild.BossME70_API.Microsoft.AspNetCore.StaticWebAssets.props
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\staticwebassets\msbuild.build.BossME70_API.props
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BossME70_API.props
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BossME70_API.props
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\staticwebassets.pack.json
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\staticwebassets.build.json
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\staticwebassets.development.json
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\scopedcss\bundle\BossME70_API.styles.css
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.csproj.CopyComplete
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.dll
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\refint\BossME70_API.dll
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.pdb
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\BossME70_API.genruntimeconfig.cache
-D:\BossME70\BossME70\BossME70_API\obj\Debug\net8.0\ref\BossME70_API.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/appsettings.Development.json
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/appsettings.json
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/BossME70_API.exe
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/BossME70_API.deps.json
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/BossME70_API.runtimeconfig.json
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/BossME70_API.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/BossME70_API.pdb
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Humanizer.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Npgsql.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/System.CodeDom.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/System.Text.Json.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/BossME70_Lib.dll
+D:/BossME70/BossME70/BossME70_API/bin/Debug/net8.0/BossME70_Lib.pdb
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.csproj.AssemblyReference.cache
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.GeneratedMSBuildEditorConfig.editorconfig
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.AssemblyInfoInputs.cache
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.AssemblyInfo.cs
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.csproj.CoreCompileInputs.cache
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.MvcApplicationPartsAssemblyInfo.cs
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.MvcApplicationPartsAssemblyInfo.cache
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/staticwebassets/msbuild.BossME70_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/staticwebassets/msbuild.build.BossME70_API.props
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BossME70_API.props
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BossME70_API.props
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/staticwebassets.pack.json
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/staticwebassets.build.json
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/staticwebassets.development.json
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/scopedcss/bundle/BossME70_API.styles.css
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.csproj.CopyComplete
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.dll
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/refint/BossME70_API.dll
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.pdb
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/BossME70_API.genruntimeconfig.cache
+D:/BossME70/BossME70/BossME70_API/obj/Debug/net8.0/ref/BossME70_API.dll
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.csproj.AssemblyReference.cache
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.GeneratedMSBuildEditorConfig.editorconfig
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.AssemblyInfoInputs.cache
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.AssemblyInfo.cs
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.csproj.CoreCompileInputs.cache
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.MvcApplicationPartsAssemblyInfo.cs
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.MvcApplicationPartsAssemblyInfo.cache
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.sourcelink.json
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.dll
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/refint/BossME70_API.dll
+/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/Debug/net8.0/BossME70_API.pdb

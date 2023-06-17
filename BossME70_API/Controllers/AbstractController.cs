@@ -18,6 +18,6 @@ public abstract class AbstractController<TipoT> : Controller where TipoT : IEffe
         else
             DbContext!.Update(entidade);
 
-        return DbContext!.SaveChanges()
+        return DbContext!.SaveChanges();
     }
 }

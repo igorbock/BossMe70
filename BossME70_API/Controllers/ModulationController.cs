@@ -4,6 +4,8 @@
 [Route("api/[controller]")]
 public class ModulationController : AbstractController<Modulation>
 {
+    public ModulationController(BossDbContext bossDbContext) : base(bossDbContext) { }
+
     [HttpPost]
     public override IActionResult Save(Modulation modulation)
     {
@@ -12,14 +14,7 @@ public class ModulationController : AbstractController<Modulation>
             if (modulation is null)
                 throw new ArgumentNullException(nameof(modulation));
 
-            using var DbContext = new BossDbContext();
-
-            if (modulation.Id is 0)
-                DbContext.Modulations!.Add(modulation);
-            else
-                DbContext.Modulations!.Update(modulation);
-
-            var qtd = DbContext.SaveChanges();
+            var qtd = InsertOrUpdate(modulation);
 
             return Ok(qtd);
         }

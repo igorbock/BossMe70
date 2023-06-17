@@ -14,14 +14,7 @@ public class DelayController : AbstractController<Delay>
             if (delay is null)
                 throw new ArgumentNullException(nameof(delay));
 
-            using var DbContext = new BossDbContext();
-
-            if (delay.Id is 0)
-                DbContext.Delays!.Add(delay);
-            else
-                DbContext.Delays!.Update(delay);
-
-            var qtd = DbContext.SaveChanges();
+            var qtd = InsertOrUpdate(delay);
 
             return Ok(qtd);
         }

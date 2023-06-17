@@ -4,6 +4,8 @@
 [Route("api/[controller]")]
 public class NoiseSuppressorController : AbstractController<NoiseSuppressor>
 {
+    public NoiseSuppressorController(BossDbContext bossDbContext) : base(bossDbContext) { }
+
     [HttpPost]
     public override IActionResult Save(NoiseSuppressor noiseSuppressor)
     {
@@ -12,14 +14,7 @@ public class NoiseSuppressorController : AbstractController<NoiseSuppressor>
             if (noiseSuppressor is null)
                 throw new ArgumentNullException(nameof(noiseSuppressor));
 
-            using var DbContext = new BossDbContext();
-
-            if (noiseSuppressor.Id is 0)
-                DbContext.NoiseSuppressors!.Add(noiseSuppressor);
-            else
-                DbContext.NoiseSuppressors!.Update(noiseSuppressor);
-
-            var qtd = DbContext.SaveChanges();
+            var qtd = InsertOrUpdate(noiseSuppressor);
 
             return Ok(qtd);
         }

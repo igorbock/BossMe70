@@ -4,6 +4,8 @@
 [Route("api/[controller]")]
 public class ReverbController : AbstractController<Reverb>
 {
+    public ReverbController(BossDbContext bossDbContext) : base(bossDbContext) { }
+
     [HttpPost]
     public override IActionResult Save(Reverb reverb)
     {
@@ -12,14 +14,7 @@ public class ReverbController : AbstractController<Reverb>
             if (reverb is null)
                 throw new ArgumentNullException(nameof(reverb));
 
-            using var DbContext = new BossDbContext();
-
-            if (reverb.Id is 0)
-                DbContext.Reverbs!.Add(reverb);
-            else
-                DbContext.Reverbs!.Update(reverb);
-
-            var qtd = DbContext.SaveChanges();
+            var qtd = InsertOrUpdate(reverb);
 
             return Ok(qtd);
         }

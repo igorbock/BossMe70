@@ -4,6 +4,8 @@
 [Route("api/[controller]")]
 public class PedalEffectController : AbstractController<PedalEffect>
 {
+    public PedalEffectController(BossDbContext bossDbContext) : base(bossDbContext) { }
+
     [HttpPost]
     public override IActionResult Save(PedalEffect pedalEffect)
     {
@@ -12,14 +14,7 @@ public class PedalEffectController : AbstractController<PedalEffect>
             if (pedalEffect is null)
                 throw new ArgumentNullException(nameof(pedalEffect));
 
-            using var DbContext = new BossDbContext();
-
-            if (pedalEffect.Id is 0)
-                DbContext.PedalEffects!.Add(pedalEffect);
-            else
-                DbContext.PedalEffects!.Update(pedalEffect);
-
-            var qtd = DbContext.SaveChanges();
+            var qtd = InsertOrUpdate(pedalEffect);
 
             return Ok(qtd);
         }

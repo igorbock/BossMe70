@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BossME70_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97cb4c4a73c4eae96ae72a0503a80604702e7f28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8963eba959a81cc530abc9d9fabcadf813143348")]
 [assembly: System.Reflection.AssemblyProductAttribute("BossME70_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BossME70_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

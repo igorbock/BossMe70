@@ -23,4 +23,30 @@ public class CompressorEffectController : AbstractController<CompressorEffect>
             return BadRequest(ex.Message);
         }
     }
+
+    [HttpDelete]
+    public override IActionResult Delete(int id)
+    {
+        try
+        {
+            return Ok(Remove(id));
+        }
+        catch(Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
+
+    [HttpGet]
+    public override IActionResult Read(int? id)
+    {
+        try
+        {
+            return Ok(GetAllOrId(id));
+        }
+        catch(Exception ex)
+        {
+            return BadRequest(ex.Message);
+        }
+    }
 }

@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "buildBackend",
-            "program": "${workspaceFolder}/bin/Debug/net8.0/BossME70_API.dll",
+            "program": "${workspaceFolder}/BossME70_API/bin/Debug/net8.0/BossME70_API.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Backend",
+            "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "serverReadyAction":{
                 "action": "openExternally",

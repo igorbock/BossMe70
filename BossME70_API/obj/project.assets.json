@@ -1520,33 +1520,46 @@
     ]
   },
   "packageFolders": {
-    "/home/igor/.nuget/packages/": {}
+    "C:\\Users\\igorb\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/BossME70_API.csproj",
+      "projectUniqueName": "D:\\Projetos\\BossMe70\\BossME70_API\\BossME70_API.csproj",
       "projectName": "BossME70_API",
-      "projectPath": "/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/BossME70_API.csproj",
-      "packagesPath": "/home/igor/.nuget/packages/",
-      "outputPath": "/home/igor/Área de trabalho/NET/BossMe70/BossME70_API/obj/",
+      "projectPath": "D:\\Projetos\\BossMe70\\BossME70_API\\BossME70_API.csproj",
+      "packagesPath": "C:\\Users\\igorb\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\BossMe70\\BossME70_API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/igor/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\igorb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/sdk/8.0.100-preview.4.23260.5/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\DevExpress 24.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "D:\\Alpha\\Nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.devexpress.com/fesfkHuiIsdDyCM7YP5THdbHS1okiYVtlUAXZ584LLuPDdDd5H/api/v3/index.json": {},
+        "https://nuget.devexpress.com/vONdUCNEGJZygyW1V4yXBnpdHvlyUxGxRPCeWgrj31Vb3zFCMx/api/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/BossME70_Lib.csproj": {
-              "projectPath": "/home/igor/Área de trabalho/NET/BossMe70/BossME70_Lib/BossME70_Lib.csproj"
+            "D:\\Projetos\\BossMe70\\BossME70_Lib\\BossME70_Lib.csproj": {
+              "projectPath": "D:\\Projetos\\BossMe70\\BossME70_Lib\\BossME70_Lib.csproj"
             }
           }
         }
@@ -1555,6 +1568,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1609,7 +1627,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.100-preview.4.23260.5/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

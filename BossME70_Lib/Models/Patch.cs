@@ -1,4 +1,4 @@
-﻿namespace BossME70_Lib;
+﻿namespace BossME70_Lib.Models;
 
 [Table("patch", Schema = "me70")]
 public class Patch : IEffects

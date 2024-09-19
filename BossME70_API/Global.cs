@@ -6,4 +6,5 @@ global using BossME70_API.Context;
 
 global using BossME70_Lib.Interfaces;
 global using BossME70_Lib.Effects;
+global using BossME70_Lib.Models;
 global using BossME70_Lib;

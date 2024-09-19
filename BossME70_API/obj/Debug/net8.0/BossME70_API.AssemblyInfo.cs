@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BossME70_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4c9167ddc7d8c77eab6da895c42a7e81f06c9f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b85337789f473897d89174b6e4782bfe0cff482f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BossME70_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BossME70_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
